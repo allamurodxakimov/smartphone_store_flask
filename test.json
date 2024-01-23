@@ -1,0 +1,265 @@
+{
+    "Apple": {
+        "1": {
+            "name": "Apple iPhone XR",
+            "company": "Apple",
+            "color": "Black",
+            "RAM": "4GB",
+            "memory": "128GB",
+            "price": 315.3,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/51qBzX0pGYL._SL1000_.jpg"
+        },
+        "2": {
+            "name": "Apple iPhone 6s",
+            "company": "Apple",
+            "color": "Gold",
+            "RAM": "2GB",
+            "memory": "32GB",
+            "price": 851.6,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/515nILxCqdL._SL1024_.jpg"
+        },
+        "3": {
+            "name": "Apple iPhone XR",
+            "company": "Apple",
+            "color": "Black",
+            "RAM": "4GB",
+            "memory": "128GB",
+            "price": 1644.2,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/51qBzX0pGYL._SL1000_.jpg"
+        },
+        "4": {
+            "name": "Apple iPhone XR",
+            "company": "Apple",
+            "color": "RED",
+            "RAM": "4GB",
+            "memory": "128GB",
+            "price": 1258.3,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/51YXG1bDM5L._SL1024_.jpg"
+        },
+        "5": {
+            "name": "Apple iPhone XR",
+            "company": "Apple",
+            "color": "White",
+            "RAM": "4GB",
+            "memory": "128GB",
+            "price": 1350.9,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/51SoC1zEpZL._SL1000_.jpg"
+        },
+        "6": {
+            "name": "Apple iPhone XR",
+            "company": "Apple",
+            "color": "RED",
+            "RAM": "6GB",
+            "memory": "128GB",
+            "price": 1498.0,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/51YXG1bDM5L._SL1024_.jpg"
+        },
+        "7": {
+            "name": "Apple iPhone 6s",
+            "company": "Apple",
+            "color": "Space Grey",
+            "RAM": "2GB",
+            "memory": "32GB",
+            "price": 384.4,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/516jNlSnB-L._SL1024_.jpg"
+        },
+        "8": {
+            "name": "Apple iPhone 6s",
+            "company": "Apple",
+            "color": "Space Grey",
+            "RAM": "1GB",
+            "memory": "32GB",
+            "price": 342.1,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/516jNlSnB-L._SL1024_.jpg"
+        },
+        "9": {
+            "name": "Apple iPad",
+            "company": "Apple",
+            "color": "Gold",
+            "RAM": "2GB",
+            "memory": "32GB",
+            "price": 2399.9,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/51Y5NYmG81L._SL1024_.jpg"
+        },
+        "10": {
+            "name": "Apple iPad",
+            "company": "Apple",
+            "color": "Gold",
+            "RAM": "2GB",
+            "memory": "32GB",
+            "price": 2499.9,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/51Y5NYmG81L._SL1024_.jpg"
+        },
+        "11": {
+            "name": "Apple iPhone Xs Max",
+            "company": "Apple",
+            "color": "Gold",
+            "RAM": "6GB",
+            "memory": "256GB",
+            "price": 1123.5,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/61nMZHYdXaL._SL1024_.jpg"
+        },
+        "12": {
+            "name": "Apple iPhone 7 Plus",
+            "company": "Apple",
+            "color": "Gold",
+            "RAM": "2GB",
+            "memory": "32GB",
+            "price": 499.0,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/41Z%2Bje5nx0L._SL1000_.jpg"
+        },
+        "13": {
+            "name": "Apple iPhone XR",
+            "company": "Apple",
+            "color": "Black",
+            "RAM": "2GB",
+            "memory": "64GB",
+            "price": 559.4,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/519KIlHA2wL._SL1024_.jpg"
+        },
+        "14": {
+            "name": "Apple iPhone 6s ",
+            "company": "Apple",
+            "color": "Rose Gold",
+            "RAM": "4GB",
+            "memory": "32GB",
+            "price": 1625.6,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/51xoTmYOxjL._SL1024_.jpg"
+        },
+        "15": {
+            "name": "Apple iPhone 7 ",
+            "company": "Apple",
+            "color": "Rose Gold",
+            "RAM": "2GB",
+            "memory": "32GB",
+            "price": 1636.4,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/41G7hrvCSrL._SL1024_.jpg"
+        },
+        "16": {
+            "name": "Apple iPhone 7 Plus",
+            "company": "Apple",
+            "color": "Rose Gold",
+            "RAM": "4GB",
+            "memory": "128GB",
+            "price": 599.0,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/41ie%2B895EyL._SL1000_.jpg"
+        },
+        "17": {
+            "name": "Apple iPhone Xs",
+            "company": "Apple",
+            "color": "Space Grey",
+            "RAM": "6GB",
+            "memory": "256GB",
+            "price": 476.1,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/512F7mwDVyL._SL1024_.jpg"
+        },
+        "18": {
+            "name": "Apple iPhone 8 Plus",
+            "company": "Apple",
+            "color": "Silver",
+            "RAM": "6GB",
+            "memory": "256GB",
+            "price": 6989.9,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/51i3MHoOe7L._SL1024_.jpg"
+        },
+        "19": {
+            "name": "Apple iPhone 8 Plus",
+            "company": "Apple",
+            "color": "RED",
+            "RAM": "4GB",
+            "memory": "256GB",
+            "price": 6299.9,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/71Erg2XbSrL._SL1500_.jpg"
+        },
+        "20": {
+            "name": "Apple iPhone 8 Plus",
+            "company": "Apple",
+            "color": "RED",
+            "RAM": "4GB",
+            "memory": "256GB",
+            "price": 6199.9,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/71Erg2XbSrL._SL1500_.jpg"
+        },
+        "21": {
+            "name": "Apple iPhone 7 Plus",
+            "company": "Apple",
+            "color": "Silver",
+            "RAM": "4GB",
+            "memory": "128GB",
+            "price": 708.0,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/418fDVeBfKL._SL1024_.jpg"
+        },
+        "22": {
+            "name": "Apple iPhone Xs",
+            "company": "Apple",
+            "color": "Silver",
+            "RAM": "2GB",
+            "memory": "64GB",
+            "price": 1897.6,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/61UXPmnTC9L._SL1024_.jpg"
+        },
+        "23": {
+            "name": "Apple iPhone Xs",
+            "company": "Apple",
+            "color": "Silver",
+            "RAM": "4GB",
+            "memory": "64GB",
+            "price": 755.3,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/61UXPmnTC9L._SL1024_.jpg"
+        },
+        "24": {
+            "name": "Apple iPhone 7 Plus",
+            "company": "Apple",
+            "color": "Gold",
+            "RAM": "4GB",
+            "memory": "128GB",
+            "price": 5799.9,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/41p5pjGGOjL._SL1024_.jpg"
+        },
+        "25": {
+            "name": "Apple iPad Air",
+            "company": "Apple",
+            "color": "Gold",
+            "RAM": "2GB",
+            "memory": "64GB",
+            "price": 4265.5,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/51IqpNeYKPL._SL1024_.jpg"
+        },
+        "26": {
+            "name": "Apple iPhone 8 Plus",
+            "company": "Apple",
+            "color": "RED",
+            "RAM": "4GB",
+            "memory": "256GB",
+            "price": 6299.9,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/71Erg2XbSrL._SL1500_.jpg"
+        },
+        "27": {
+            "name": "Apple iPhone Xs",
+            "company": "Apple",
+            "color": "Silver",
+            "RAM": "6GB",
+            "memory": "512GB",
+            "price": 12450.0,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/51Gggt-m0LL._SL1000_.jpg"
+        },
+        "28": {
+            "name": "Apple iPhone Xs (512GB) - Silver",
+            "company": "Apple",
+            "color": "Silver",
+            "RAM": "6GB",
+            "memory": "512GB",
+            "price": 12450.0,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/51Gggt-m0LL._SL1000_.jpg"
+        },
+        "29": {
+            "name": "Apple iPad",
+            "company": "Apple",
+            "color": "Space Grey",
+            "RAM": "4GB",
+            "memory": "128GB",
+            "price": 3427.2,
+            "img_url": "https://images-na.ssl-images-amazon.com/images/I/51x4j48wCpL._SL1024_.jpg"
+        }
+    }
+}
